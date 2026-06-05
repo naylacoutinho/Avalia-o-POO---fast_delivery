@@ -31,6 +31,10 @@ Este projeto foi desenvolvido como atividade avaliativa da disciplina de Program
 ```text
 FastDeliveryExpress/
 │
+│
+├── imagens/                         # Prints anexados para exemplo do sistema funcionando
+│   └── ...
+│ 
 ├── modelos/
 │   ├── pessoa.py
 │   ├── cliente.py
@@ -126,37 +130,4 @@ python main.py
 
 ## 6. Exemplos de Uso
 
-## Demonstração
-
-### Menu Principal e Cadastro do Cliente
-<img src="imagens/14.png" width="700">
-
-### Lista de Clientes
-<img src="imagens/11.png" width="700">
-
-### Lista de Clientes
-<img src="imagens/11.png" width="700">
-
-### Busca de Clientes
-<img src="imagens/10.png" width="700">
-
-### Menu e Criação de Pedidos
-<img src="imagens/9.png" width="700">
-
-### Lista de Pedidos
-<img src="imagens/7.png" width="700">
-
-### Atualização de Status
-<img src="imagens/6.png" width="700">
-
-### Lista de Pedidos com Exemplo Atualizado
-<img src="imagens/5.png" width="700">
-
-### Cadastro de Entregador
-<img src="imagens/4.png" width="700">
-
-### Lista de Entregadores
-<img src="imagens/2.png" width="700">
-
-### Busca de Entregador e Finalização
-<img src="imagens/11.png" width="700">
+Imagens anexadas na pasta "Imagens"
