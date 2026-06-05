@@ -1,5 +1,13 @@
 # FastDelivery Express
 
+## Autor
+
+Nayla Coutinho Lopes
+
+Disciplina: Programação Orientada a Objetos com Python
+
+Professor: Evandro de Lima Rodrigues
+
 ## 1. Descrição do Projeto
 
 O FastDelivery Express é um sistema de gerenciamento de entregas desenvolvido em Python utilizando os principais conceitos da Programação Orientada a Objetos (POO).
@@ -106,25 +114,49 @@ Foi utilizada a interface `CalculoFreteInterface`, garantindo que todas as class
 
 ## 5. Como Executar
 
-1. Baixe ou clone o projeto.
-2. Abra o terminal na pasta do projeto.
-3. Execute o arquivo principal:
+1. Abra o terminal na pasta do projeto.
+2. Execute o arquivo principal:
 
 ```bash
 python main.py
 ```
 
-4. Utilize os menus para cadastrar clientes, entregadores e criar pedidos.
+3. Utilize os menus para cadastrar clientes, entregadores e criar pedidos.
 
 
 ## 6. Exemplos de Uso
 
-![alt text](<Gatinhos do papel de parede inicial.png>)
+## Demonstração
 
-## Autor
+### Menu Principal e Cadastro do Cliente
+<img src="imagens/14.png" width="700">
 
-Nayla Coutinho Lopes
+### Lista de Clientes
+<img src="imagens/11.png" width="700">
 
-Disciplina: Programação Orientada a Objetos com Python
+### Lista de Clientes
+<img src="imagens/11.png" width="700">
 
-Professor: Evandro de Lima Rodrigues
+### Busca de Clientes
+<img src="imagens/10.png" width="700">
+
+### Menu e Criação de Pedidos
+<img src="imagens/9.png" width="700">
+
+### Lista de Pedidos
+<img src="imagens/7.png" width="700">
+
+### Atualização de Status
+<img src="imagens/6.png" width="700">
+
+### Lista de Pedidos com Exemplo Atualizado
+<img src="imagens/5.png" width="700">
+
+### Cadastro de Entregador
+<img src="imagens/4.png" width="700">
+
+### Lista de Entregadores
+<img src="imagens/2.png" width="700">
+
+### Busca de Entregador e Finalização
+<img src="imagens/11.png" width="700">
