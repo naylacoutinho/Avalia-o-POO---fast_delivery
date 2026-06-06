@@ -4,8 +4,8 @@ class EntregadorService:
     def __init__(self):
         self.entregadores = []
 
-    def cadastrar(self, nome, veiculo, cnh):
-        entregador = Entregador(nome, veiculo, cnh)
+    def cadastrar(self, nome, idade, veiculo, cnh):
+        entregador = Entregador(nome, idade, veiculo, cnh)
         self.entregadores.append(entregador)
         return entregador
 

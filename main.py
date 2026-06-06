@@ -93,13 +93,17 @@ while True:
 
         if op == "1":
             nome = input("Nome: ")
+            idade = int(input("Idade: "))
+            if idade < 18:
+                print("Idade inválida. O entregador precisa ter 18 anos ou mais.")
+                continue
             veiculo = input("Veículo: ")
             cnh = input("CNH: ")
 
             teste = entregador_service.buscar(cnh)
 
             if not teste:
-                entregador_service.cadastrar(nome, veiculo, cnh)
+                entregador_service.cadastrar(nome, idade, veiculo, cnh)
                 print("Entregador cadastrado!")
             else:
                 print("CNH já cadastrada.")
